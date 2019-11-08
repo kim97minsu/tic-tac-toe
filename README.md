@@ -1,10 +1,8 @@
-1. User clicks the game website 
-2. User chooses to play against another player or CPU
-3. User starts the game at Round 1 
-4. User hovers the mouse on top of the board to choose the columns 
-5. User clicks the pointer to drop the checker 
-6. User successfully connects four checkers (horizontally, vertically, diagonally) - wins a round
-7. Both players play 3 rounds 
-8. Game alerts “Game over. Play again?”
-9. User clicks yes or no
+Tic Tac Toe User Story 
 
+1. user opens the browser game 
+2. user chooses X and other user chooses O 
+3. user clicks X on each box and alternate turns with opponent
+4. if one of the users clicks X or O three times in a row (horizontal, vertical, diagonal) then the user wins 
+5. if the grid fills up with no winner, they must click ‘Refresh Game’ button 
+6. users can play as long as they wish
